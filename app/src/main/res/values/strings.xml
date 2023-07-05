@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Pawsome</string>
+
+    //First screen
+    <string name= "app_slogan">Connecting hearts,\none paw at a time!</string>
+
+    //Signup screen
+    <string name= "signinScreen_greeting">Hey, there</string>
+    <string name= "siginScreen_question">Join the Pawsome family</string>
+
+    //Login screen
+    <string name= "loginScreen_greeting">Paw-some!</string>
+    <string name= "loginScreen_welcome">Welcome back</string>
+
+
+    //Text field components
+    <string name= "name1">First name</string>
+    <string name= "name2">Last name</string>
+    <string name= "name3">Email</string>
+    <string name= "policy">By continuing you accept our Privacy policy and Terms of use</string>
+
+    //PET ANIMAL (CATS) NAMES
+    <string name= "cat1">Noor</string>
+    <string name= "cat2">Luna</string>
+    <string name= "cat3">Oliver</string>
+    <string name= "cat4">Bella</string>
+    <string name= "cat5">Milo</string>
+    <string name= "cat6">Nala</string>
+    <string name= "cat7">Leo</string>
+    <string name= "cat8">Willow</string>
+    <string name= "cat9">Jasper</string>
+
+    //Noor adoption message
+    <string name= "Noor_adoption_message">"Noor, the adorable tabby cat, is a bundle of joy seeking a caring home. With her striking coat and friendly nature, she'll bring happiness to your life."</string>
+
+
+    //Maltipoo adoption message
+    <string name= "sheru_adoption_msg">Meet Sheru, the adorable Maltipoo dog with a heart full of love. This playful and affectionate companion is eager to bring happiness to your home and be your lifelong friend</string>
+
+
+
+</resources>
